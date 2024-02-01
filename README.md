@@ -14,7 +14,7 @@ cel 3234000710
 Instalación
 
 1. Clona este repositorio: https://github.com/andresesguerra93/rick-and-morty.git
-2. navegar al directorio del proyecto cd rick-and-morty-app
+2. navegar al directorio del proyecto cd rick-and-morty
 3. Instala las dependencias con npm install o yarn install 
 4.  Inicia el servidor de desarrollo npm run dev o npm start
 5. Abre un navegador en http://localhost:5173 (es la puerto que me muestra a mi)
